@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vama Top 100</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_100_albums">Top 100 Albums</string>
+    <string name="visit_the_album">Visit The Album</string>
+    <string name="error_while_fetching">There was an error while fetching the albums</string>
+    <string name="try_again"><u>Try again</u></string>
+</resources>
